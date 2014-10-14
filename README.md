@@ -9,4 +9,4 @@ Installing
 
 Usage
 -----
-har-view <har file>
+    har-view <har file>
